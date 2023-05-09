@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Tuto: https://blog.logrocket.com/notes-app-react-localstorage/
 
 ## Available Scripts
