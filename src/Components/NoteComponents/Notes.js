@@ -47,7 +47,7 @@ function Notes() {
   return (
     <div className="notes">
       {notes.map((note) => (
-        <Note
+        <Note 
           key={note.id}
           id={note.id}
           text={note.text}
